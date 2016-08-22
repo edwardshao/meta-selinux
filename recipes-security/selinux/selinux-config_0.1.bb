@@ -1,5 +1,5 @@
 DEFAULT_POLICY ??= "mls"
-DEFAULT_ENFORCING ??= "enforcing"
+DEFAULT_ENFORCING ??= "permissive"
 
 SUMMARY = "SELinux configuration"
 DESCRIPTION = "\
