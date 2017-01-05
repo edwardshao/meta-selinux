@@ -1,4 +1,4 @@
-DEFAULT_ENFORCING ??= "enforcing"
+DEFAULT_ENFORCING ??= "permissive"
 
 SECTION = "base"
 LICENSE = "GPLv2"
